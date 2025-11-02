@@ -69,6 +69,3 @@ print(f"Average SAC: {sac_score}")
 
 
 #tensorboard --logdir=sac/logs/
-
-#SAC entrenado en 1158.34 segundos
-#SAC promedio: -17.71480848681579
